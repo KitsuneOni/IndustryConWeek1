@@ -1,0 +1,14 @@
+C:\Users\Neel\RiderProjects\Console1\Console1\bin\Debug\net8.0\Console1.exe
+C:\Users\Neel\RiderProjects\Console1\Console1\bin\Debug\net8.0\Console1.deps.json
+C:\Users\Neel\RiderProjects\Console1\Console1\bin\Debug\net8.0\Console1.runtimeconfig.json
+C:\Users\Neel\RiderProjects\Console1\Console1\bin\Debug\net8.0\Console1.dll
+C:\Users\Neel\RiderProjects\Console1\Console1\bin\Debug\net8.0\Console1.pdb
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.AssemblyInfoInputs.cache
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.AssemblyInfo.cs
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.dll
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\refint\Console1.dll
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.pdb
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\Console1.genruntimeconfig.cache
+C:\Users\Neel\RiderProjects\Console1\Console1\obj\Debug\net8.0\ref\Console1.dll
